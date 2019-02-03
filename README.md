@@ -1,2 +1,2 @@
 # Selenia_Journey
-A beginners crash course into Selenia in Python
+A beginners crash course into Selenium in Python
